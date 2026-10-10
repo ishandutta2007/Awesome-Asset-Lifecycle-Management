@@ -75,7 +75,7 @@ The enterprise asset lifecycle management ecosystem spans **enterprise EAM suite
 Curated self-hosted open-source software for IT asset management, EAM, CMDB, and fixed asset accounting.
 
 > [!TIP]
-> Open-Source projects are sorted in descending order by **GitHub Stars Count**. Click on any star badge to visit the stargazers page!
+> Open-Source projects are sorted in descending order by **GitHub_Stars_Count**. Click on any Stars_Badge to visit the stargazers page!
 
 - **[Snipe-IT](https://github.com/snipe/snipe-it)** [![Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) 📋  
   **The most popular open-source IT asset management system**, AGPL-3.0 licensed. Features asset registration, hardware assignment tracking, digital sign-off, QR code label generation, audit logging, and check-in/check-out workflows. Ideal for small to enterprise IT teams.
@@ -126,8 +126,8 @@ Curated self-hosted open-source software for IT asset management, EAM, CMDB, and
 Contributions are warm welcome! Follow these simple steps to submit new asset management tools, EAM platforms, or open-source repositories:
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add/edit** entries in `README.md` following the established table structure and star count sorting.
-3. 🔗 Ensure all links, badges, and exact pricing/star counts are accurate.
+2. 📝 **Add/edit** entries in `README.md` following the established table structure and Stars_Count sorting.
+3. 🔗 Ensure all links, badges, and exact pricing/Stars_Counts are accurate.
 4. 🚀 Submit a clear **Pull Request** with your changes!
 
 ---
